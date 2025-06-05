@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
+<h1 align="center">Salve, eu sou o Jonathan! 👋</h1>
+<h3 align="center">💻 Estudante de ADS | Jovem Aprendiz na WEG 🚀</h3>
+
 <br>
 
 <div align="center">  
