@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&theme=tokyonight"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&count_private=true&hide_border=true&title_color=ECEFF4&icon_color=8B0000&text_color=ECEFF4&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan7gb&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagomaes&theme=shadow-red&card_width=750&card_height=200&sideLabels=ECEFF4&currStreakLabel=ECEFF4&sideNums=8B0000&ring=8B0000&currStreakNum=ECEFF4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonathan7gb&theme=shadow-red&card_width=750&card_height=200&sideLabels=ECEFF4&currStreakLabel=ECEFF4&sideNums=8B0000&ring=8B0000&currStreakNum=ECEFF4)](https://git.io/streak-stats)
 
 </div>
 
