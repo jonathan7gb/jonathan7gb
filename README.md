@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### All Skills
+### Tecnologias em Aprendizado
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="jonathan7gb-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,6 +45,8 @@
   <img align="center" alt="jonathan7gb-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img  align="center" alt="jonathan7gb-AnacondaNavigator" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="jonathan7gb-IntelliJ" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="jonathan7gb-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 
 </div>
 
@@ -52,7 +54,7 @@
 
 <br>
   
- ### Contact
+ ### Contato
  
 <div> 
   
