@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&count_private=true&hide_border=true&title_color=ECEFF4&icon_color=8B0000&text_color=ECEFF4&bg_color=0d1117" alt="Jonathan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&theme=tokyonight"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan7gb&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
 </div>
 
