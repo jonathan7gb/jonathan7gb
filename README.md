@@ -16,9 +16,7 @@
 
 <br>
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonathan7gb&theme=shadow-red)](https://git.io/streak-stats)
-</div>
 
 <br> 
 
