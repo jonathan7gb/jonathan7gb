@@ -18,7 +18,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jonathan7gb&theme=shadow-red&card_width=750&card_height=200&sideLabels=ECEFF4&currStreakLabel=ECEFF4&sideNums=8B0000&ring=8B0000&currStreakNum=ECEFF4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathan7gb&theme=maroongold)](https://git.io/streak-stats)
 
 </div>
 
