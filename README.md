@@ -43,6 +43,7 @@
   <img align="center" alt="jonathan7gb-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" >
   <img align="center" alt="jonathan7gb-Eclipse" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
   <img align="center" alt="jonathan7gb-Pycharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="jonathan7gb-Fedora" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
   <img align="center" alt="jonathan7gb-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img  align="center" alt="jonathan7gb-AnacondaNavigator" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="jonathan7gb-IntelliJ" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
