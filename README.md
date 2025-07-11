@@ -55,7 +55,7 @@
 
 <br>
 
-![Snake animation](https://github.com/jonathan7gb/jonathan7gb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
