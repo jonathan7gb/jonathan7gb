@@ -40,9 +40,7 @@
   ![Flask](https://img.shields.io/badge/flask-%23FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)    
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%232C3E50.svg?style=for-the-badge&logo=github&logoColor=white)  
-  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%232C3E50?style=for-the-badge&logo=githubcopilot&logoColor=fff)](#)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -53,8 +51,6 @@
   ![PyCharm](https://img.shields.io/badge/PyCharm-%233C3C3C?style=for-the-badge&logo=pycharm&logoColor=white)   
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![Scrum](https://img.shields.io/badge/Scrum-%230074CD.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
-  ![Wokwi](https://img.shields.io/badge/Wokwi-6020b0?style=for-the-badge&logo=wokwi&logoColor=white)
   [![Vercel](https://img.shields.io/badge/Vercel-%232C3E50.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
