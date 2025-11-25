@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=header"/>
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&count_private=true&hide_border=true&title_color=ECEFF4&icon_color=8B0000&text_color=ECEFF4&bg_color=0d1117"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&count_private=true&hide_border=true&title_color=ECEFF4&icon_color=00208B&text_color=ECEFF4&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan7gb&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan7gb&bg_color=0d1117&color=eceff4&line=8b0000&point=eceff4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan7gb&bg_color=0d1117&color=DCE8FC&line=00208B&point=DCE8FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -46,4 +46,4 @@
 </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=footer"/>
