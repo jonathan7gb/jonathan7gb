@@ -22,26 +22,24 @@
 
 <div align="center">
 
-### Learning Technologies
+## Learning Technologies
 
 <br>
 <div align="center" style="display: inline_block">
 
-## Front-End
+### Front-End
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<br>
 <div align="center" style="display: inline_block">
 
-## Back-End
+### Back-End
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black) <br> ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br>
 <div align="center" style="display: inline_block">
 
-## Other Technologies
+### Other Technologies
 
 
   
@@ -49,6 +47,8 @@
 </div>
 
 <br>
+<div align="center" style="display: inline_block">
+  
 
 <br>
 
