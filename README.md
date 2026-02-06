@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathan7gb&theme=shadow-blue&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-  
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathan7gb&theme=shadow-blue&exclude_days=Sun%2CSat)](https://git.io/streak-stats);
+-->
 </div>
 
 <br> 
