@@ -39,9 +39,6 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
 </div>
 
 <br>
-<div align="start" style="display: inline_block">
-
-<br>
 
  ## Contact
  
