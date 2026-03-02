@@ -1,42 +1,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=header"/>
 
-<div align="center">
+<div align="start">
 
 ## Sobre Mim
 
-Olá! Me chamo **Jonathan**, sou desenvolvedor em formação apaixonado por tecnologia e resolução de problemas. Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento **Front-End** e **Back-End**, buscando criar soluções modernas e eficientes.
+Olá! Me chamo **Jonathan**, sou analista e desenvolvedor de sistemas em formação. Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento **Front-End** e **Back-End**, buscando criar soluções modernas e eficientes.
 
-- 🎓 Estudante de Tecnologia da Informação
-- 💻 Apaixonado por desenvolvimento web e software
-- 🚀 Sempre em busca de novos desafios e aprendizados
-- 📍 Brasil
+- 🎓 Estudante de Análise e Desenvolvimento de Softwares
+- 🚀 Sempre em busca de novos desafios, conhecimentos e habilidades
 - 📫 Contato: jonathanuber121207@gmail.com
 
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan7gb&bg_color=0d1117&color=DCE8FC&line=00208B&point=DCE8FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-<div align="center">
+<div align="start">
 
 ## Learning Technologies
 
-<div align="center" style="display: inline_block">
+<div align="start" style="display: inline_block">
 
 ### Front-End
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br> ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-<div align="center" style="display: inline_block">
+<div align="start" style="display: inline_block">
 
 ### Back-End
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black) <br> ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-<div align="center" style="display: inline_block">
+<div align="start" style="display: inline_block">
 
 ### Other Technologies
 
@@ -46,7 +40,7 @@ Olá! Me chamo **Jonathan**, sou desenvolvedor em formação apaixonado por tecn
 </div>
 
 <br>
-<div align="center" style="display: inline_block">
+<div align="start" style="display: inline_block">
   
 
 <br>
