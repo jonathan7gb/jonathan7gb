@@ -2,13 +2,13 @@
 
 <div align="start">
 
-## Sobre Mim
+## About Me
 
-Olá! Me chamo **Jonathan**, sou analista e desenvolvedor de sistemas em formação. Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento **Front-End** e **Back-End**, buscando criar soluções modernas e eficientes.
+Hello! My name is **Jonathan**, I am a systems analyst and developer in training. I am constantly learning and improving my skills in **Front-End** and **Back-End** development, seeking to create modern and efficient solutions.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Softwares
-- 🚀 Sempre em busca de novos desafios, conhecimentos e habilidades
-- 📫 Contato: jonathanuber121207@gmail.com
+- 🎓 Student of Software Analysis and Development
+- 🚀 Always seeking new challenges, knowledge, and skills
+- 📫 Contact: jonathanuber121207@gmail.com
 
 </div>
 
