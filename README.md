@@ -45,7 +45,7 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
 
 <br>
 
-![Snake animation](https://github.com/jonathan7gb/jonathan7gb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jonathan7gb/jonathan7gb/output/github-contribution-grid-snake2.svg)
 
 <br>
 
