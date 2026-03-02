@@ -1,24 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=header"/>
 
+<div align="center">
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan7gb&show_icons=true&count_private=true&hide_border=true&title_color=ECEFF4&icon_color=00208B&text_color=ECEFF4&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan7gb&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
-</div> -->
+## Sobre Mim
+
+Olá! Me chamo **Jonathan**, sou desenvolvedor em formação apaixonado por tecnologia e resolução de problemas. Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento **Front-End** e **Back-End**, buscando criar soluções modernas e eficientes.
+
+- 🎓 Estudante de Tecnologia da Informação
+- 💻 Apaixonado por desenvolvimento web e software
+- 🚀 Sempre em busca de novos desafios e aprendizados
+- 📍 Brasil
+- 📫 Contato: jonathanuber121207@gmail.com
+
+</div>
 
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan7gb&bg_color=0d1117&color=DCE8FC&line=00208B&point=DCE8FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-
-<div align="center">
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathan7gb&theme=shadow-blue&exclude_days=Sun%2CSat)](https://git.io/streak-stats);
--->
-</div>
-
-<br> 
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 <br>
 
-![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jonathan7gb/jonathan7gb/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
