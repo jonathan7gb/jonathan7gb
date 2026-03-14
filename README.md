@@ -50,8 +50,8 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
  ## Contact
  
 <div> 
-  <a href="https://instagram.com/jonathan7_gb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jonathanuber121207@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jonathan7_gb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-414245?style=for-the-badge&logo=instagram&logoColor=E4405F" target="_blank"></a>
+  <a href = "mailto:jonathanuber121207@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-414245?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a>
 </div>
 </div>
 
