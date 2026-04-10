@@ -3,7 +3,7 @@
   
 ## About Me
 
-Hello! My name is **Jonathan**, I am a systems analyst and developer in training. I am constantly learning and improving my skills in **Front-End** and **Back-End** development, seeking to create modern and efficient solutions.
+Hello! My name is **Jonathan**, I am a systems analyst and developer in training. I am constantly learning and improving my skills in **FullStack** development, seeking to create modern and efficient solutions.
 
 - 🎓 Student of Software Analysis and Development
 - 🚀 Always seeking new challenges, knowledge, and skills
