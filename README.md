@@ -19,15 +19,15 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
 
 <div align="start" style="display: inline_block">
 
-### Front-End
-
-![HTML5](https://img.shields.io/badge/html5-414245.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-414245.svg?style=for-the-badge&logo=css3&logoColor=1572B6)  ![JavaScript](https://img.shields.io/badge/javascript-414245.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-414245?style=for-the-badge&logo=typescript&logoColor=3178C6)  ![Next](https://img.shields.io/badge/Next-414245?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-414245?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-414245?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Figma](https://img.shields.io/badge/figma-414245.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) 
-
-<div align="start" style="display: inline_block">
-
 ### Back-End
 
 ![Java](https://img.shields.io/badge/java-414245.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Spring](https://img.shields.io/badge/spring-414245.svg?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Python](https://img.shields.io/badge/python-414245?style=for-the-badge&logo=python&logoColor=3776AB)  ![Flask](https://img.shields.io/badge/flask-414245.svg?style=for-the-badge&logo=flask&logoColor=white)  ![R](https://img.shields.io/badge/r-414245.svg?style=for-the-badge&logo=r&logoColor=276DC3) ![C](https://img.shields.io/badge/C-414245?style=for-the-badge&logo=c&logoColor=00599C)
+
+<div align="start" style="display: inline_block">
+  
+### Front-End
+
+![HTML5](https://img.shields.io/badge/html5-414245.svg?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/css3-414245.svg?style=for-the-badge&logo=css3&logoColor=1572B6)  ![JavaScript](https://img.shields.io/badge/javascript-414245.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-414245?style=for-the-badge&logo=typescript&logoColor=3178C6)  ![Next](https://img.shields.io/badge/Next-414245?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-414245?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-414245?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Figma](https://img.shields.io/badge/figma-414245.svg?style=for-the-badge&logo=figma&logoColor=F24E1E) 
 
 <div align="start" style="display: inline_block">
 
