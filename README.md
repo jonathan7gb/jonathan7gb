@@ -64,24 +64,31 @@ The operation depended on fragmented communication and manual tracking, creating
 - Increased reliability in client service through clearer status control and structured handling of critical files.
 
 **Tech Stack:**  
-Java, Spring Boot, React (Vite), Typescript, Postgresql (Supabase), Cloudfare R2 (Object Storage).
+Java, Spring Boot, Spring Security, Spring Data JPA, React (Vite), Typescript, TailwindCSS, Postgresql (Supabase), Cloudfare R2 (Object Storage).
 
 ---
 
 ### Restyle
 **Project Overview:**  
-A UI/UX improvement initiative focused on transforming functionally correct interfaces into more intuitive, scalable, and user-centered experiences.
+Restyle is a regional marketplace for pre-owned fashion—a curated showcase connecting local buyers and sellers, featuring quick contact via WhatsApp.
 
 **Business Context & Challenge:**  
-Previous interfaces lacked consistency, visual hierarchy, and responsiveness, which impacted usability and increased cognitive load for users.
+The goal of the MVP is to prove that a storefront featuring filters, photos, and direct contact options accelerates the sale of used parts compared to informal listings.
+
+Product direction:
+
+- Regional marketplace (Jaraguá do Sul and surrounding area)
+- No integrated payment — transactions take place off-platform
+- No internal chat — contact via WhatsApp
+- Open registration for buyers; sellers admitted via admin approval
+- Categories and cities managed within the system
 
 **Impact Delivered:**  
-- Established a more consistent visual language and reusable interface patterns.  
-- Improved navigation clarity and interaction flow across screens.  
-- Enhanced responsiveness and accessibility, delivering a cleaner and more professional product experience.
+- Facilitates the sale of used or pre-owned parts and products
+- Eliminates fees and reduces bureaucracy for the purchase and sale of used and pre-owned parts.
 
 **Tech Stack:**  
-HTML, CSS, JavaScript (responsive design, component standardization, and front-end architecture refinement).
+Next.js, Typescript, TailwindCSS, Postresql (Supabase), Redis,  Shadcn, Lucide Icons, GSAP, Cloudfare R2 (Object Storage), Prisma, Next Auth.
 
 ---
 
@@ -106,7 +113,7 @@ Develop an administrative system to efficiently manage all cleaning supplies, fo
 - Automation – Minimize manual processes using smart spreadsheets or a web-based system.
 
 **Tech Stack:**  
-Python, Flask, HTML, CSS, JavaScript, Postgresql (Render), plus server-side validation and template rendering.
+Python, Flask, HTML, TailwindCSS, JavaScript, Postgresql (Render), plus server-side validation and template rendering.
 
 ---
 
