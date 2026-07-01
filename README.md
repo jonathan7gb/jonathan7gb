@@ -47,6 +47,69 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
 
 <br>
 
+---
+
+## Personal Projects
+
+### Documental Assessoria Imobiliária
+**Project Overview:**  
+A real estate advisory platform designed to professionalize document operations and improve the end-to-end service workflow for clients and internal staff.
+
+**Business Context & Challenge:**  
+The operation depended on fragmented communication and manual tracking, creating bottlenecks in document follow-up, status visibility, and delivery consistency.
+
+**Impact Delivered:**  
+- Centralized document and process management into a single workflow.  
+- Reduced operational friction by improving traceability and task organization.  
+- Increased reliability in client service through clearer status control and structured handling of critical files.
+
+**Tech Stack:**  
+Java, Spring Boot, React (Vite), Typescript, Postgresql (Supabase), Cloudfare R2 (Object Storage).
+
+---
+
+### Restyle
+**Project Overview:**  
+A UI/UX improvement initiative focused on transforming functionally correct interfaces into more intuitive, scalable, and user-centered experiences.
+
+**Business Context & Challenge:**  
+Previous interfaces lacked consistency, visual hierarchy, and responsiveness, which impacted usability and increased cognitive load for users.
+
+**Impact Delivered:**  
+- Established a more consistent visual language and reusable interface patterns.  
+- Improved navigation clarity and interaction flow across screens.  
+- Enhanced responsiveness and accessibility, delivering a cleaner and more professional product experience.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript (responsive design, component standardization, and front-end architecture refinement).
+
+---
+
+### SAMG-SM (Final High School Project)
+**Project Overview:**  
+Think of each maintenance room as a "household." Just like at home, we use cleaning supplies, food (lunches), and other materials. The goal of this project is to create a smart system to track everything that comes in, goes out, and is spent in each of these "households."
+
+Instead of relying on paper notes or complicated spreadsheets, we will have an organized tool to know exactly:
+
+- **What we have:** How many cleaning products or breakroom items remain in stock.
+- **Who used it:** Which maintenance room consumed a specific material.
+- **How ​​much it cost:** The total expenditure on materials for the Room A team, for example.
+
+**Business Context & Challenge:**  
+Develop an administrative system to efficiently manage all cleaning supplies, food items, and other consumables, as well as to track specific expenses by maintenance room, ensuring organization, cost savings, and transparency in resource utilization.
+
+**Impact Delivered:**  
+- Inventory Control – Record and monitor the inflow and outflow of cleaning supplies and food items.
+- Consumption Management – ​​Track the quantity of supplies used in each maintenance room.
+- Financial Control – Generate detailed expenditure reports by room, period, and product category.
+- Transparency and Waste Reduction – Identify excessive consumption and propose optimization measures.
+- Automation – Minimize manual processes using smart spreadsheets or a web-based system.
+
+**Tech Stack:**  
+Python, Flask, HTML, CSS, JavaScript, Postgresql (Render), plus server-side validation and template rendering.
+
+---
+
  ## Contact
  
 <div> 
