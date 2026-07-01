@@ -51,7 +51,7 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
 
 ## Personal Projects
 
-### Documental Assessoria Imobiliária
+### [Documental Assessoria Imobiliária](https://www.linkedin.com/posts/jonathan-luis-uber_desenvolvimentodesoftware-saas-java-ugcPost-7462116265973862400-bPd0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQttCcB6fjZsD8cPYk2_BWGUb-rDGfp0L0)
 **Project Overview:**  
 A real estate advisory platform designed to professionalize document operations and improve the end-to-end service workflow for clients and internal staff.
 
@@ -68,7 +68,7 @@ Java, Spring Boot, Spring Security, Spring Data JPA, React (Vite), Typescript, T
 
 ---
 
-### Restyle
+### Restyle - In Development
 **Project Overview:**  
 Restyle is a regional marketplace for pre-owned fashion—a curated showcase connecting local buyers and sellers, featuring quick contact via WhatsApp.
 
@@ -92,7 +92,7 @@ Next.js, Typescript, TailwindCSS, Postresql (Supabase), Redis,  Shadcn, Lucide I
 
 ---
 
-### SAMG-SM (Final High School Project)
+### [SAMG-SM (Final High School Project)](https://www.linkedin.com/posts/jonathan-luis-uber_ti-tecnologia-desenvolvimentodesistemas-ugcPost-7426772651865681920-E9TM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQttCcB6fjZsD8cPYk2_BWGUb-rDGfp0L0)
 **Project Overview:**  
 Think of each maintenance room as a "household." Just like at home, we use cleaning supplies, food (lunches), and other materials. The goal of this project is to create a smart system to track everything that comes in, goes out, and is spent in each of these "households."
 
