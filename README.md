@@ -68,6 +68,20 @@ Java, Spring Boot, Spring Security, Spring Data JPA, React (Vite), Typescript, T
 
 ---
 
+### [Time Trial](https://github.com/PabloTzeliks/time-trial-api)
+*v1 delivered · remodeling in progress*
+
+**Physical race sensors to a live leaderboard, event-driven end to end.**
+
+A real-time IoT lap-timing platform on physical hardware (ESP32 + RFID). The team left the course's expected stack (Node-RED + MySQL) and rebuilt the problem around event-driven architecture. Demoed live to instructors and WEG IT leadership, with physical ESP32 hardware on stage.
+
+- Edge devices kept deliberately "dumb" — they emit only `{rfid, timestamp}`; all validation lives in the backend, so sensors scale horizontally.
+- Async MQTT ingestion into a running 3-node Cassandra cluster with QUORUM reads/writes; real-time output over WebSocket, history over REST.
+- Python analytics — K-Means clustering, Streamlit dashboard.
+- *Remodeling toward:* Kafka Streams for lap aggregation, first-class `Pista` and `Sessão` entities, durable lap-time storage.
+
+---
+
 ### Restyle - In Development
 **Project Overview:**  
 Restyle is a regional marketplace for pre-owned fashion—a curated showcase connecting local buyers and sellers, featuring quick contact via WhatsApp.
