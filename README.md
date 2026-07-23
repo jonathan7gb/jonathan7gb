@@ -41,7 +41,7 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer in training
 
 ### Other Technologies
 
-![Kotlin](https://img.shields.io/badge/Kotlin-414245?&style=for-the-badge&logo=kotlin&logoColor=blue) ![Git](https://img.shields.io/badge/git-414245.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-414245?style=for-the-badge&logo=docker&logoColor=2496ED) 	![Fedora](https://img.shields.io/badge/Fedora-414245?style=for-the-badge&logo=fedora&logoColor=2496ED) ![Power Bi](https://img.shields.io/badge/power_bi-414245?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![Node-RED](https://img.shields.io/badge/Node--RED-414245.svg?style=for-the-badge&logo=node-red&logoColor=8F0000) ![Postman](https://img.shields.io/badge/Postman-414245.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+![Kotlin](https://img.shields.io/badge/Kotlin-414245?&style=for-the-badge&logo=kotlin&logoColor=blue) ![Git](https://img.shields.io/badge/git-414245.svg?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-414245?style=for-the-badge&logo=docker&logoColor=2496ED) 	![Fedora](https://img.shields.io/badge/Fedora-414245?style=for-the-badge&logo=fedora&logoColor=2496ED) ![Power Bi](https://img.shields.io/badge/power_bi-414245?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![Node-RED](https://img.shields.io/badge/Node--RED-414245.svg?style=for-the-badge&logo=node-red&logoColor=8F0000) ![Postman](https://img.shields.io/badge/Postman-414245.svg?style=for-the-badge&logo=Postman&logoColor=FF6C37) ![Grafana](https://img.shields.io/badge/Grafana-414245.svg?style=for-the-badge&logo=Grafana&logoColor=FF6C37)
   
 </div>
 
