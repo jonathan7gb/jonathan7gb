@@ -82,7 +82,7 @@ A real-time IoT lap-timing platform on physical hardware (ESP32 + RFID). The tea
 
 ---
 
-### Restyle - In Development
+### [Restyle SC](https://restylesc.com.br)
 **Project Overview:**  
 Restyle is a regional marketplace for pre-owned fashion—a curated showcase connecting local buyers and sellers, featuring quick contact via WhatsApp.
 
