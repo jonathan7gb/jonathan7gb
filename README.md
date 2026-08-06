@@ -3,9 +3,9 @@
   
 ## About Me
 
-Hello! My name is **Jonathan**, I am a systems analyst and developer at WEG. I am constantly learning and improving my skills in **FullStack** development, seeking to create modern and efficient solutions.
+Hello! My name is **Jonathan**, I am a software developer at WEG, working at WMS Integrated Manufacturing Systems Sector. I am constantly learning and improving my skills in **FullStack** development, seeking to create modern and efficient solutions.
 
-- 🎓 Student of Software Analysis and Development
+- 🎓 Student of Computer Software Engineer at Instituto INFNET 
 - 🚀 Always seeking new challenges, knowledge, and skills
 - 📫 Contact: jonathanuber121207@gmail.com
 
@@ -21,7 +21,7 @@ Hello! My name is **Jonathan**, I am a systems analyst and developer at WEG. I a
 
 ### Back-End
 
-![Java](https://img.shields.io/badge/java-414245.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Spring](https://img.shields.io/badge/spring-414245.svg?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Python](https://img.shields.io/badge/python-414245?style=for-the-badge&logo=python&logoColor=3776AB)  ![Flask](https://img.shields.io/badge/flask-414245.svg?style=for-the-badge&logo=flask&logoColor=white)  ![R](https://img.shields.io/badge/r-414245.svg?style=for-the-badge&logo=r&logoColor=276DC3) ![C](https://img.shields.io/badge/C-414245?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/java-414245.svg?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Spring](https://img.shields.io/badge/spring-414245.svg?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Python](https://img.shields.io/badge/python-414245?style=for-the-badge&logo=python&logoColor=3776AB) ![Golang](https://img.shields.io/badge/golang-414245?style=for-the-badge&logo=go&logoColor=00599) ![Flask](https://img.shields.io/badge/flask-414245.svg?style=for-the-badge&logo=flask&logoColor=white)  ![R](https://img.shields.io/badge/r-414245.svg?style=for-the-badge&logo=r&logoColor=276DC3) ![C](https://img.shields.io/badge/C-414245?style=for-the-badge&logo=c&logoColor=00599C)
 
 <div align="start" style="display: inline_block">
   
