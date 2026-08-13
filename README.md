@@ -3,7 +3,7 @@
   
 ## About Me
 
-Hello! My name is **Jonathan**, I am software developer at WEG, working at WMS Integrated Manufacturing Systems Industrial Sector. I am constantly learning and improving my skills in **FullStack** development, seeking to create modern and efficient solutions.
+Hello! My name is **Jonathan**, I am software developer at WEG, working at WMS Integrated Manufacturing Industrial Systems Sector. I am constantly learning and improving my skills in **FullStack** development, seeking to create modern and efficient solutions.
 
 - 🎓 Student of Computer Software Engineer at Instituto INFNET 
 - 🚀 Always seeking new challenges, knowledge, and skills
